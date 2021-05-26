@@ -11,7 +11,6 @@ using namespace std;
  
 #define MOD 1000000007 
  
- 
 int main()
 {
 	ios_base::sync_with_stdio(false);
